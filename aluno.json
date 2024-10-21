@@ -1,0 +1,242 @@
+{
+  "100": {
+    "nome_completo": "João da Silva",
+    "nivel": "Médio",
+    "idade": 16,
+    "boletim": {
+      "Matemática": [8.5, 9.0, 7.5],
+      "Português": [7.0, 8.5, 10.0],
+      "Ciências": [9.5, 9.0, 10.0],
+      "História": [6.5, 7.0, 8.0],
+      "Geografia": [7.5, 6.0, 9.0]
+    }
+  },
+  "101": {
+    "nome_completo": "Maria Oliveira",
+    "nivel": "Médio",
+    "idade": 17,
+    "boletim": {
+      "Matemática": [6.0, 5.5, 7.0],
+      "Português": [8.0, 9.5, 8.5],
+      "Ciências": [7.5, 8.0, 7.0],
+      "História": [9.0, 8.0, 8.5],
+      "Geografia": [6.5, 7.5, 6.0]
+    }
+  },
+  "102": {
+    "nome_completo": "Carlos Santos",
+    "nivel": "Médio",
+    "idade": 16,
+    "boletim": {
+      "Matemática": [9.0, 8.5, 8.0],
+      "Português": [7.5, 7.0, 6.5],
+      "Ciências": [10.0, 9.5, 9.0],
+      "História": [8.0, 7.0, 9.0],
+      "Geografia": [7.0, 8.0, 8.5]
+    }
+  },
+  "103": {
+    "nome_completo": "Ana Pereira",
+    "nivel": "Médio",
+    "idade": 18,
+    "boletim": {
+      "Matemática": [5.0, 6.0, 7.0],
+      "Português": [8.5, 9.0, 9.5],
+      "Ciências": [6.0, 7.5, 8.0],
+      "História": [9.5, 9.0, 8.5],
+      "Geografia": [7.0, 6.5, 8.0]
+    }
+  },
+  "104": {
+    "nome_completo": "Luiz Ferreira",
+    "nivel": "Médio",
+    "idade": 17,
+    "boletim": {
+      "Matemática": [7.5, 8.0, 6.5],
+      "Português": [8.0, 8.5, 9.0],
+      "Ciências": [7.0, 6.5, 8.5],
+      "História": [8.5, 9.0, 9.5],
+      "Geografia": [6.0, 7.0, 6.5]
+    }
+  },
+  "105": {
+    "nome_completo": "Fernanda Lima",
+    "nivel": "Médio",
+    "idade": 16,
+    "boletim": {
+      "Matemática": [9.0, 8.5, 9.5],
+      "Português": [6.0, 6.5, 7.0],
+      "Ciências": [8.0, 8.5, 9.0],
+      "História": [7.5, 8.0, 9.0],
+      "Geografia": [8.5, 9.0, 10.0]
+    }
+  },
+  "106": {
+    "nome_completo": "Ricardo Almeida",
+    "nivel": "Médio",
+    "idade": 17,
+    "boletim": {
+      "Matemática": [8.0, 8.0, 8.0],
+      "Português": [7.0, 6.5, 7.5],
+      "Ciências": [9.0, 9.0, 8.0],
+      "História": [6.0, 7.0, 8.0],
+      "Geografia": [7.5, 7.5, 8.0]
+    }
+  },
+  "107": {
+    "nome_completo": "Patrícia Costa",
+    "nivel": "Médio",
+    "idade": 18,
+    "boletim": {
+      "Matemática": [9.5, 10.0, 9.5],
+      "Português": [8.0, 9.0, 8.5],
+      "Ciências": [7.0, 7.5, 8.0],
+      "História": [8.0, 8.0, 9.0],
+      "Geografia": [9.0, 8.5, 9.0]
+    }
+  },
+  "108": {
+    "nome_completo": "Bruno Gomes",
+    "nivel": "Médio",
+    "idade": 16,
+    "boletim": {
+      "Matemática": [7.5, 8.0, 9.0],
+      "Português": [9.0, 9.5, 10.0],
+      "Ciências": [6.5, 7.0, 8.0],
+      "História": [8.5, 7.5, 9.0],
+      "Geografia": [6.0, 7.5, 8.0]
+    }
+  },
+  "109": {
+    "nome_completo": "Juliana Martins",
+    "nivel": "Médio",
+    "idade": 17,
+    "boletim": {
+      "Matemática": [6.5, 7.0, 6.0],
+      "Português": [8.0, 9.0, 7.5],
+      "Ciências": [7.0, 8.0, 7.5],
+      "História": [9.0, 8.5, 9.0],
+      "Geografia": [8.0, 7.0, 9.0]
+    }
+  },
+  "110": {
+    "nome_completo": "Lucas Ribeiro",
+    "nivel": "Médio",
+    "idade": 18,
+    "boletim": {
+      "Matemática": [7.0, 7.5, 8.0],
+      "Português": [6.5, 8.5, 9.0],
+      "Ciências": [9.5, 9.0, 10.0],
+      "História": [8.5, 8.0, 7.5],
+      "Geografia": [7.0, 6.5, 7.5]
+    }
+  },
+  "111": {
+    "nome_completo": "Tatiane Souza",
+    "nivel": "Médio",
+    "idade": 17,
+    "boletim": {
+      "Matemática": [9.0, 8.0, 9.5],
+      "Português": [8.5, 9.5, 9.0],
+      "Ciências": [6.5, 7.0, 8.0],
+      "História": [9.0, 8.5, 8.0],
+      "Geografia": [7.5, 8.0, 7.0]
+    }
+  },
+  "112": {
+    "nome_completo": "Eduardo Lima",
+    "nivel": "Médio",
+    "idade": 16,
+    "boletim": {
+      "Matemática": [8.0, 9.0, 8.5],
+      "Português": [7.0, 6.0, 8.5],
+      "Ciências": [9.0, 10.0, 8.0],
+      "História": [7.5, 8.0, 9.5],
+      "Geografia": [8.5, 7.0, 7.5]
+    }
+  },
+  "113": {
+    "nome_completo": "Gabriela Dias",
+    "nivel": "Médio",
+    "idade": 17,
+    "boletim": {
+      "Matemática": [9.5, 9.0, 10.0],
+      "Português": [6.5, 7.0, 8.0],
+      "Ciências": [8.0, 7.5, 8.5],
+      "História": [7.0, 9.0, 8.0],
+      "Geografia": [8.0, 7.5, 9.0]
+    }
+  },
+  "114": {
+    "nome_completo": "Fábio Almeida",
+    "nivel": "Médio",
+    "idade": 18,
+    "boletim": {
+      "Matemática": [7.5, 8.0, 7.0],
+      "Português": [8.5, 9.5, 8.0],
+      "Ciências": [6.0, 7.0, 8.5],
+      "História": [9.5, 8.0, 9.0],
+      "Geografia": [8.0, 7.0, 9.5]
+    }
+  },
+  "115": {
+    "nome_completo": "Renata Silva",
+    "nivel": "Médio",
+    "idade": 17,
+    "boletim": {
+      "Matemática": [9.0, 9.5, 8.5],
+      "Português": [8.0, 7.5, 6.0],
+      "Ciências": [7.0, 8.0, 9.0],
+      "História": [9.0, 8.0, 7.5],
+      "Geografia": [6.5, 7.0, 8.0]
+    }
+  },
+  "116": {
+    "nome_completo": "Samuel Andrade",
+    "nivel": "Médio",
+    "idade": 18,
+    "boletim": {
+      "Matemática": [6.5, 7.0, 7.5],
+      "Português": [8.5, 9.0, 8.0],
+      "Ciências": [9.0, 10.0, 9.5],
+      "História": [7.0, 8.0, 6.5],
+      "Geografia": [8.5, 7.5, 8.0]
+    }
+  },
+  "117": {
+    "nome_completo": "Sérgio Oliveira",
+    "nivel": "Médio",
+    "idade": 17,
+    "boletim": {
+      "Matemática": [8.0, 8.5, 7.5],
+      "Português": [7.0, 8.0, 6.5],
+      "Ciências": [9.5, 9.0, 10.0],
+      "História": [8.0, 7.5, 8.0],
+      "Geografia": [6.0, 7.0, 8.5]
+    }
+  },
+  "118": {
+    "nome_completo": "Lucas Mendes",
+    "nivel": "Médio",
+    "idade": 16,
+    "boletim": {
+      "Matemática": [7.5, 6.5, 8.0],
+      "Português": [9.0, 8.5, 7.5],
+      "Ciências": [8.0, 7.5, 8.0],
+      "História": [7.5, 8.0, 9.0],
+      "Geografia": [8.5, 9.0, 7.0]
+    }
+  },
+  "119": {
+    "nome_completo": "Tiago Pereira",
+    "nivel": "Médio",
+    "idade": 17,
+    "boletim": {
+      "Matemática": [9.0, 9.5, 10.0],
+      "Português": [7.0, 8.0, 9.0],
+      "Ciências": [6.0, 7.5, 8.5],
+      "História": [8.0, 9.0, 8.5],
+      "Geografia": [7.0, 6.0, 7.5]
+    }
+  }
+}
